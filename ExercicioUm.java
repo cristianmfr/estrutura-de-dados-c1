@@ -1,6 +1,6 @@
-// Trabalho feito por: Cristian Menezes de Freitas
-// OBS: A tarefa/trabalho foi feito sozinho sem a ajuda de terceiros.
-//
+// Feito por: Cristian Menezes de Freitas
+// Turma: 2HC2
+// Repositório: https://github.com/cristianmfr/estrutura-de-dados-c1
 
 import java.util.ArrayList;
 import java.util.List;

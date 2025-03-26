@@ -1,3 +1,7 @@
+// Feito por: Cristian Menezes de Freitas
+// Turma: 2HC2
+// Repositório: https://github.com/cristianmfr/estrutura-de-dados-c1
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Objects;
